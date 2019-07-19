@@ -1,0 +1,22 @@
+{
+  "name": "bchjs-get-started",
+  "version": "1.0.0",
+  "description": "Simple example app for exploring the bch-js endpoints",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christroutner/bchjs-get-started.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christroutner/bchjs-get-started/issues"
+  },
+  "homepage": "https://github.com/christroutner/bchjs-get-started#readme",
+  "dependencies": {
+    "@chris.troutner/bch-js": "^1.4.1"
+  }
+}
