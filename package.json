@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/christroutner/bchjs-get-started#readme",
   "dependencies": {
-    "@chris.troutner/bch-js": "^1.4.5"
+    "@chris.troutner/bch-js": "^1.4.6"
   }
 }
